@@ -1,12 +1,12 @@
-<div align=center>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://github.com/Queila-Souto/SitePessoal/blob/main/img/logo%20_comp.png" target="_blank"></a>
-<br> </div>
+
 
 
 <h1> Oieee, eu sou a Queila Souto 👋</h1>
  <h3> Bem-vindo ao meu portifólio pessoal ✍</h3>
   <p>👩‍🎓 Sou estudante de Análise e Desenvolviment de Sistemas.
   <p>👩‍💻 Aqui você encontra alguns projetos e exercícios realizados durante minha jornada acadêmica.
+  <p>😁 Sinta-se a vontade para colaborar com qualquer projeto, toda ajuda é muito bem-vinda!
+
 
 ##
 
@@ -40,26 +40,18 @@
   <a href="https://www.youtube.com/channel/UCRInCxzAFCL0c_g0_roOCKQ" target="_blank"><img  height="40"  src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-512.png" target="_blank">&nbsp</a>
   <a href="mailto:monteiro_queila@gmail.com" target="_blank"><img  height="40"  src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png">&nbsp</a>
   <a href="http://api.whatsapp.com/send?phone=5512996744079" target="_blank"><img  height="40"  src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-512.png">&nbsp</a>
+ 
 </div>
 
 ##
 
+<div align=center> 
+<h3>Visite meu site pessoal:</h3>
+  <div align=center>
+ 	<a href="http://queilasouto.mypressonline.com/#" target="_blank"><img src="https://github.com/Queila-Souto/SitePessoal/blob/main/img/logo%20_comp.png" target="_blank"></a>
+<br> </div>
 <div> 
 
   ![Snake animation](https://github.com/queila-souto/queila-souto/blob/output/github-contribution-grid-snake.svg)
  <div> 
 
-<!--
-**Queila-Souto/Queila-Souto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
