@@ -3,7 +3,7 @@
 
 <h1> Oieee, eu sou a Queila Souto 👋</h1>
  <h3> Bem-vindo ao meu portifólio pessoal ✍</h3>
-  <p>👩‍🎓 Sou estudante de Análise e Desenvolviment de Sistemas.
+  <p>📱 Sou Analista de Sistemas e desenvolvedora Android.
   <p>👩‍💻 Aqui você encontra alguns projetos e exercícios realizados durante minha jornada acadêmica.
   <p>😁 Sinta-se a vontade para colaborar com qualquer projeto, toda ajuda é muito bem-vinda!
 
