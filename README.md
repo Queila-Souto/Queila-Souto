@@ -30,28 +30,19 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queila-souto&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
+##
+
+<div> 
+
+  ![Snake animation](https://github.com/queila-souto/queila-souto/blob/output/github-contribution-grid-snake.svg)
+ <div> 
 
 ##
 
 <div align=center> 
 <h3>Conheça minhas redes sociais e entre em contato </h3>
   <a href="https://www.linkedin.com/in/queila-souto-802aa71b5/" target="_blank"><img  height="40"  src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-512.png" target="_blank">&nbsp</a>
-  <a href="https://www.instagram.com/queila_ms/" target="_blank"><img  height="40"  src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-circle-512.png" target="_blank">&nbsp</a>
-  <a href="https://www.youtube.com/channel/UCRInCxzAFCL0c_g0_roOCKQ" target="_blank"><img  height="40"  src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/youtube_v2-512.png" target="_blank">&nbsp</a>
   <a href="mailto:monteiro_queila@gmail.com" target="_blank"><img  height="40"  src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png">&nbsp</a>
   <a href="http://api.whatsapp.com/send?phone=5512996744079" target="_blank"><img  height="40"  src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-512.png">&nbsp</a>
  
 </div>
-
-##
-
-<div align=center> 
-<h3>Visite meu site pessoal:</h3>
-  <div align=center>
- 	<a href="http://queilasouto.mypressonline.com/#" target="_blank"><img src="https://github.com/Queila-Souto/SitePessoal/blob/main/img/logo%20_comp.png" target="_blank"></a>
-<br> </div>
-<div> 
-
-  ![Snake animation](https://github.com/queila-souto/queila-souto/blob/output/github-contribution-grid-snake.svg)
- <div> 
-
