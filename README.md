@@ -1,9 +1,9 @@
 
 
 
-<h1> Oieee, eu sou a Queila Souto 👋</h1>
- <h3> Bem-vindo ao meu portifólio pessoal ✍</h3>
-  <p>📱 Sou Analista de Sistemas e desenvolvedora Android.
+<h1> Bem-vindo ao meu portifólio pessoal ✍</h1>
+ <h3>👋 Meu nome é Queila ! </h3>
+  <p>📱 Sou Analista de Sistemas e Dev Android.
   <p>👩‍💻 Aqui você encontra alguns projetos e exercícios realizados durante minha jornada acadêmica.
   <p>😁 Sinta-se a vontade para colaborar com qualquer projeto, toda ajuda é muito bem-vinda!
 
@@ -24,13 +24,6 @@
 
 ##
 
-<div align=center style="display: inline_block">
-  <a href="https://github.com/Queila-Souto">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=queila-souto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=queila-souto&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
-##
 
 <div> 
 
